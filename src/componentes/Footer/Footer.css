@@ -1,0 +1,17 @@
+.footer {
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 50px;
+}
+
+.redes img {
+    padding: 0 15px;
+}
